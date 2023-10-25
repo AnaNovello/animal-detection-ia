@@ -41,6 +41,3 @@ Este repositório é mantido por Ana Letícia de Oliveira Novello e é fornecido
 ## Licença
 
 Este projeto é licenciado sob os termos da Licença MIT. Consulte o arquivo [LICENSE](LICENSE.txt) para obter mais informações.
-
----
-Este README serve como um exemplo básico e você pode personalizá-lo conforme necessário para o seu projeto.
