@@ -10,8 +10,9 @@
 - [Licença](#licença)
 
 ## Visão Geral
+Este projeto aborda o desenvolvimento de um modelo de inteligência artificial para detectar animais perigosos em áreas rurais, com foco no estado de Mato Grosso. Visando fornecer, futuramente, uma solução eficaz para alertar os moradores destas áreas sobre a presença destes animais. Foram utilizadas técnicas de Deep Learning e Transfer Learning para produzir treinamentos progressivamente mais eficazes e com a maior taxa de acerto por classe possível.
 
-Este repositório contém uma base de dados de detecção de animais separada por sistema de cores. Você pode acessar os dados no seguinte link:
+Este repositório contém uma base de dados de detecção de animais separada por dois sistema de cores, **RGB** e **Escala de Cinza**. Você pode acessar os dados no seguinte link:
 
 [Base de Dados - Google Drive](https://drive.google.com/drive/folders/1uoikgvTrkBrWHM1dkL56h52pFlx1Scgl?usp=sharing)
 
